@@ -8,11 +8,9 @@ function palindrome(str){
         if (x != y) {
            
             return false;
-		else
-			 return true;
         }
     }
  
-   
+    return true;
 }
 module.exports = palindrome
