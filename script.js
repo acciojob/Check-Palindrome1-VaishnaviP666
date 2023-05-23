@@ -1,7 +1,7 @@
 // complete the given function
 
 function palindrome(str){
- onst arrayValues = str.split('');
+ const arrayValues = str.split('');
 
     
     const reverseArrayValues = arrayValues.reverse();
